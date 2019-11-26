@@ -1,0 +1,3 @@
+sudo rmmod ./hid-x1tab3.ko
+make
+sudo insmod ./hid-x1tab3.ko
